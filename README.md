@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👷 I'm a sophomore student major in Computer Science at Shanghai Jiao Tong University.
+- 🌱 I’m currently doing research in combinatorial optimization and adversarial attacks on GNN.
+- 💬 More about me([profile](https://github.com/Emiyalzn/emiyalzn/blob/main/LZN's%20CV.pdf))
