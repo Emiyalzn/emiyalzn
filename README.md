@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 👷 I'm a senior undergraduate majoring in Computer Science at Shanghai Jiao Tong University.
+- 👷 I'm a first-year Ph.D. in Artificial Intelligence at Tsinghua University.
 - 🌱 I’m currently doing research on Autonomous Driving (focusing on Prediction and Planning).
 - 💬 Learn more about me: please refer to my [CV](https://github.com/Emiyalzn/emiyalzn/blob/main/LZN_s_CV_en.pdf).
-- 🧑‍💻 Currently interning at [QCraft](https://www.qcraft.ai/en).
